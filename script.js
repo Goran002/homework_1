@@ -1,8 +1,8 @@
-// Task 1 
+Task 1 
 
-// let a = prompt('Enter the number: ')  ; 
-// let b = (a % 2 == 0) ? "even" : "odd" ; 
-// console.log(b) 
+let a = prompt('Enter the number: ')  ; 
+let b = (a % 2 == 0) ? "even" : "odd" ; 
+console.log(b) 
 
     
 //Task 2 
